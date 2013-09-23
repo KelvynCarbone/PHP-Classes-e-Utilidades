@@ -11,9 +11,13 @@ Uso Básico:
 $DB = New DBE();
 
 $DB->Query($query);
+
 $DB->Fetch (tipo_fetch); ou $DB->Fetch ();
+
 $DB->LastId();
+
 $DB->Rows();
+
 $DB->RollBack();
 
 
