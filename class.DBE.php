@@ -25,7 +25,7 @@ date_default_timezone_set('America/Sao_Paulo');
 	public function __construct()
 		{
 		// Set DSN
-		$dsn = "pgsql:host=localhost;port=5432;dbname=nomedabase;user=usuario_postgres;password=senha;";
+		$dsn = "pgsql:host=localhost;port=5432;dbname=nomedabase;user=usuario_postgres;password=senha;charset=utf8";
 		
 		//Instancia o PDO
 		try
