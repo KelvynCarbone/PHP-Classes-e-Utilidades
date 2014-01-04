@@ -1,5 +1,7 @@
-PHP-Postgresql-Classe
-=====================
+PHP- Classes e Utilidades
+=========================
+
+//[INI] Referente ao arquivo classe de conexão com o postgresql --------------------------------------------------------
 
 Classe de conexão com o banco Postgresql. Mantenha os créditos do autor por favor.
 
@@ -20,5 +22,10 @@ $DB->Rows();
 
 $DB->RollBack();
 
+//[INI] Referente ao arquivo classe de conexão com o postgresql --------------------------------------------------------
 
-Aproveitem!
+//[INI] Referente ao arquivo mes_dia_por_extenso -----------------------------------------------------------------------
+
+Exemplo prático: echo NomeDaSuaClasse::dataPorExtenso($data,"dia");
+
+//[FIM] Referente ao arquivo mes_dia_por_extenso -----------------------------------------------------------------------
