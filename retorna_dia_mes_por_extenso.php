@@ -2,7 +2,7 @@
 
 /* Created By: Kelvyn Carbone
 * All Rights Reserved
-* crie um classe qualquer ou gosto de chamar de util e inclua essa função você escolhe o que quer trazer por extenso
+* crie uma classe qualquer, eu gosto de chamar de util e inclua essa função você escolhe o que quer trazer por extenso
 * e pode modificar como quiser, mantenha os créditos, Obrigado!
 */
 
