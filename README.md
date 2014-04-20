@@ -1,4 +1,4 @@
-PHP- Classes e Utilidades
+Classe de conexão PDO
 =========================
 
 //[INI] Referente ao arquivo classe de conexão com o postgresql --------------------------------------------------------
@@ -22,8 +22,11 @@ Uso Básico:
         
         $DB->RollBack();
 
-//[INI] Referente ao arquivo mes_dia_por_extenso -----------------------------------------------------------------------
 
-Exemplo prático: echo NomeDaSuaClasse::dataPorExtenso($data,"dia");
+Classe que exibe dia da semana por extenso
+=========================
 
-//[FIM] Referente ao arquivo mes_dia_por_extenso -----------------------------------------------------------------------
+Exemplo prático: 
+
+        echo NomeDaSuaClasse::dataPorExtenso($data,"dia");
+
