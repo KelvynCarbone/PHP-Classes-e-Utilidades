@@ -37,13 +37,13 @@ Uso prático:
 
         Formato para  inserir no banco:
         
-                nomedasuaclasse:dateToDB("12/12/2012") // 2012-12-12
-                nomedasuaclasse:dateToDB("12/12/2012 12:12:12") // 2012-12-12 12:12:12
+                nomedasuaclasse::dateToDB("12/12/2012") // 2012-12-12
+                nomedasuaclasse::dateToDB("12/12/2012 12:12:12") // 2012-12-12 12:12:12
         
         Formato de exibição(PT-BR):
         
-                nomedasuaclasse:dateToDB("2012-12-12") // 12/12/2012
-                nomedasuaclasse:dateToDB("2012-12-12 12:12:12") // 12/12/2012 12:12:12
+                nomedasuaclasse::dateToDB("2012-12-12") // 12/12/2012
+                nomedasuaclasse::dateToDB("2012-12-12 12:12:12") // 12/12/2012 12:12:12
         
         
 
